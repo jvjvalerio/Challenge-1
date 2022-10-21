@@ -10,4 +10,8 @@
 
 💬 Meet other builders working on this challenge and get help in the Challenge 1 telegram!
 
-Go on over to tasteless-tramp.surge.sh to interact with this Smart Contract on the Goerli Test network. 
+Go on over to tasteless-tramp.surge.sh to interact with this Smart Contract on the Goerli Test network.
+
+Check out my Buidl Guild portfolio -> https://speedrunethereum.com/builders/0x42af630b2217A65AE52890d71fD30EeB2b1f1A21
+
+
